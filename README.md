@@ -10,3 +10,4 @@
 * 伪装类型：none
 * 路径：/api-vless // 默认vless使用/api-vless，vmess使用/api-vmess，Trojan使用/api-Trojan
 * 底层传输安全：tls
+* ggg
